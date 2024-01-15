@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Mulish:wght@400;600;700;800&display=swap');
+
+body{
+  
+font-family: 'Mulish', sans-serif;
+}
+header{
+    margin:30px 130px;
+}
+.nav_img{
+    width: 48px;
+height: 56px;
+align-items: center;
+margin-top: 30px;
+}
+.nav_section{
+    display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+.nav_name{
+    display: flex;
+    gap: 20px;
+}
+.web_name{
+    color: #131318;
+
+font-family: Mulish;
+font-size: 36px;
+font-style: normal;
+font-weight: 800;
+}
+.web_name_span{
+    color: #FF5400;
+font-family: Mulish;
+font-size: 36px;
+font-style: normal;
+font-weight: 800;
+}
+.nav_bar ul{
+    list-style: none;
+    display: flex;
+    justify-content:space-around;
+    gap: 50px;
+}
+.nav_bar ul a{
+    text-decoration: none;
+    color: var(--Dark-02, #424247);
+text-align: center;
+font-family: Mulish;
+font-size: 1.125rem;
+font-style: normal;
+font-weight: 400;
+}
+.nav_bar a:hover{
+    color: #FF5400;
+}
