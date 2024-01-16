@@ -579,7 +579,7 @@ background: rgba(255, 255, 255, 0.80);
 backdrop-filter: blur(2.5px);
 position: relative;
 top: -400px;
-left: 500px;
+left: 480px;
 padding: 20px;
 }
 .deals_title{
@@ -640,7 +640,7 @@ background: rgba(255, 255, 255, 0.80);
 backdrop-filter: blur(2.5px);
 position: relative;
 top: -400px;
-left: 100px;
+left: 90px;
 padding: 20px;
 }
 /* .deals_img{
