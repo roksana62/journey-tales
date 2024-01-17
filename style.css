@@ -1039,11 +1039,44 @@ margin:100px 300px;
     .footer_section{
         width: 100%;
         display: inline-block;
+        margin: 0;
+        padding: 0;
+
     }
     .perfect_section{
         flex-direction: column;
         width: 100%;
         padding: 0;
         margin: 0;
+        position: relative;
+        padding-right: 100px;
     }
+    .news_section{
+        flex-direction: column;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    .blog_section{
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+.deals_section{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.deals_img{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.deal_description{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    
+}
+
 }
